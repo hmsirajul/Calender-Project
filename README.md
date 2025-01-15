@@ -1,2 +1,2 @@
 # Calender
- Its a Calenter that can show past and present also future dates.
+ It's a Calenter that can show past and present also future dates.
